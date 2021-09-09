@@ -1,0 +1,16 @@
+<div class="container" style="padding-bottom: 0;">
+  <span class="app-back" routerLink="/movies">
+    <span class="material-icons">arrow_back</span>
+    voltar para listagem</span>
+  <div class="card">
+    <div class="card-body">
+      <img [src]="movie.url" class="img-fluid">
+      <h4 class="card-title">{{ movie.nome }}</h4>
+      <p>{{ movie.descricao }}</p>
+
+      <span class="card-span">
+        <b>Diretor:</b> {{ movie.diretor }} </span>
+      <p class="card-footer">{{ movie.genero }} ({{ movie.ano }})</p>
+    </div>
+  </div>
+</div>

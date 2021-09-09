@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "url": "assets/img/animaisfantasticos.jpg",
+    "nome": "Animais Fantásticos e Onde Habitam",
+    "descricao": "Um excêntrico magizoologista carrega uma maleta cheia de animais mágicos coletados durante suas viagens pelo mundo. As criaturas acabam saindo de sua mala em Nova York, e agora ele precisa usar suas habilidades para capturá-las.",
+    "ano": "2016",
+    "genero": "Fantasia",
+    "diretor": "David Yates"
+  },
+  {
+    "id": 2,
+    "url": "assets/img/jogodaimitacao.jpg",
+    "nome": "O jogo da imitação",
+    "descricao": "Em 1939, a recém-criada agência de inteligência britânica MI6 recruta Alan Turing, um aluno da Universidade de Cambridge, para entender códigos nazistas, incluindo o Enigma, que criptógrafos acreditavam ser inquebrável. A equipe de Turing, incluindo Joan Clarke, analisa as mensagens de Enigma, enquanto ele constrói uma máquina para decifrá-las.",
+    "ano": "2015",
+    "genero": "Drama",
+    "diretor": "Morten Tyldum"
+  },
+  {
+    "id": 3,
+    "url": "assets/img/shrek.jpg",
+    "nome": "Shrek 2",
+    "descricao": "Após se casar com a Princesa Fiona, Shrek vive feliz em seu pântano. Mas ao voltar a lua de mel, Fiona recebe uma carta de seus pais a convidando para um jantar e acompanhado do burro, vão para Tão Tâo distante.",
+    "ano": "2004",
+    "genero": "Comédia",
+    "diretor": "Vicky Jenson, Andrew Adamson"
+  },
+  {
+    "id": 4,
+    "url": "assets/img/resgate.jpg",
+    "nome": "Resgate",
+    "descricao": "Em Bangladesh, o mercenário do mercado negro Tyler Rake luta para sobreviver durante a missão para resgatar o filho sequestrado de um chefe do crime internacional.",
+    "ano": "2020",
+    "genero": "Ação",
+    "diretor": "Sam Hargrave"
+  },
+  {
+    "id": 5,
+    "url": "assets/img/sniper.jpg",
+    "nome": "Sniper Americano",
+    "descricao": "História real de Chris Kyle, atirador de elite das forças especiais da marinha dos Estados Unidos. Seu dever fez dele um dos maiores atiradores da história americana. Sua precisão salva inúmeras vidas, mas também o torna um alvo preferencial. Quando Kyle finalmente volta para casa, ele descobre que não tem como deixar a guerra para trás.",
+    "ano": "2014",
+    "genero": "Guerra",
+    "diretor": "Clint Eastwood"
+  },
+  {
+    "id": 6,
+    "url": "assets/img/guerramundial.jpg",
+    "nome": "Guerra Mundial Z",
+    "descricao": "Um vírus letal se espalha rapidamente e transforma seres humanos em zumbis. O ex-agente da ONU Gerry Lane é chamado para investigar a epidemia que está acabando com a humanidade, iniciando uma verdadeira corrida contra o tempo.",
+    "ano": "2013",
+    "genero": "Terror",
+    "diretor": "Marc Forster"
+  },
+  {
+    "id": 7,
+    "url": "assets/img/fragmentado.jpg",
+    "nome": "Fragmentado",
+    "descricao": "Kevin possui 23 personalidades distintas e consegue alterná-las quimicamente em seu organismo apenas com a força do pensamento. Um dia, ele sequestra três adolescentes que encontra em um estacionamento. Vivendo em cativeiro, elas passam a conhecer as diferentes facetas de Kevin e precisam encontrar algum meio de escapar.",
+    "ano": "2017",
+    "genero": "Terror",
+    "diretor": "M. Night Shyamalan"
+  },
+  {
+    "id": 8,
+    "url": "assets/img/karatekid.jpg",
+    "nome": "Karate Kid",
+    "descricao": "Um garoto de 12 anos chamado Dre Parker se muda para a China com a mãe e se vê em um terra estranha. Ele sabe um pouco de karatê, mas suas habilidades não são o bastante para enfrentar o valentão da escola, Cheng. Dre faz amizade com o Sr. Han, um mestre das artes marciais, que lhe ensina os segredos do kung fu.",
+    "ano": "2010",
+    "genero": "Drama",
+    "diretor": "Harald Zwart"
+  },
+  {
+    "id": 9,
+    "url": "assets/img/ligadajustica.jpg",
+    "nome": "Liga da justiça",
+    "descricao": "Impulsionado pela restauração de sua fé na humanidade e inspirado pelo ato altruísta do Superman, Bruce Wayne convoca sua nova aliada Diana Prince para o combate contra um inimigo ainda maior, recém-despertado. Juntos, Batman e Mulher-Maravilha buscam e recrutam com agilidade um time de meta-humanos.",
+    "ano": "2021",
+    "genero": "Aventura",
+    "diretor": "Zack Snyder"
+  },
+  {
+    "id": 10,
+    "url": "assets/img/vingadores.png",
+    "nome": "Vingadores: Ultimato",
+    "descricao": "Após Thanos eliminar metade das criaturas vivas, os Vingadores têm de lidar com a perda de amigos e entes queridos. Com Tony Stark vagando perdido no espaço sem água e comida, Steve Rogers e Natasha Romanov lideram a resistência contra o titã louco.",
+    "ano": "2019",
+    "genero": "Ação",
+    "diretor": "Joss Whedon"
+  }
+]

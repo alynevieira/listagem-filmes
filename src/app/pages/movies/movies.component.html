@@ -1,0 +1,16 @@
+<div class="container">
+  <h2>Lista de filmes</h2>
+
+  <div class="wrapper">
+    <div *ngFor="let movie of movies">
+      <div class="card" [routerLink]="['/detail', movie.id]">
+        <div class="card-body">
+          <img class="img-fluid" [src]="movie.url">
+          <h5 class="card-title">{{ movie.nome }}</h5>
+          <p>{{ movie.genero }} ({{ movie.ano }})</p>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
